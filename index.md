@@ -11,7 +11,7 @@ Thank Goodness It’s Friday (TGIF) is a submission to the the [NIST lightweight
 - **Ling Sun**, Shandong University, China
 
 
-You can contact us on [tgif-ae@googlegroups.com](mailto:tgif-ae@googlegroups.com). 
+You can contact us on [tgif-ae@googlegroups.com](mailto:tgif-ae@googlegroups.com)
 
 
 # Features
